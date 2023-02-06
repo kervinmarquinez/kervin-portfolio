@@ -56,8 +56,8 @@ export const Card = ({title, subtitle, id, technology, en, es, image, linkOne, l
 
                     <div className="flex justify-end gap-5 px-5">
 
-                    <a href={linkOne} target="_blank"><img src="../src/assets/icons/github.svg"/></a>
-                    <a href={linkTwo} target="_blank"><img src="../src/assets/icons/web.svg"/></a>
+                    <a href={linkOne} target="_blank"><img src="../../assets/icons/github.svg"/></a>
+                    <a href={linkTwo} target="_blank"><img src="../../assets/icons/web.svg"/></a>
 
                     </div>
 
