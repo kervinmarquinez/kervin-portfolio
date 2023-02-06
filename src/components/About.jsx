@@ -17,7 +17,7 @@ export const About = ({value}) => {
     <div className='flex flex-col justify-center items-center'>
 
         <figure className='w-52 mb-2'>
-            <img src="../src/assets/images/amarquinez.png" alt="Adrian Kervin photo" />
+            <img src="../../assets/images/amarquinez.png" alt="Adrian Kervin photo" />
         </figure>
         <h3 className='font-bold text-xl lg:text-3xl mb-2 lg:mb-10'>{status ? 'Who is Adrian Kervin?' : '¿Quién es Adrián Kervin?'}</h3>
         <p className='leading-7 mb-7 lg:mb-10 max-w-4xl'>{status ? "Since I was a child I have always been interested in everything related to graphic design and later in web design. So, I decided to turn my professional career around and focus on what I am most passionate about, the development of websites and web apps." : "Desde pequeño siempre he tenido inquietud por todo lo relacionado con el diseño gráfico y más adelante con el diseño web. De esta forma, decidí darle un vuelco a mi carrera profesional y enfocarme en lo que más me apasiona, el desarrollo de sitios y aplicaciones web."}</p>

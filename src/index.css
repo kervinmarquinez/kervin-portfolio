@@ -34,7 +34,7 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  background: url('./assets/background.jpg');
+  background: url('../assets/background.jpg');
   background-size: max-width 100%, auto;
   background-repeat: no-repeat;
   
