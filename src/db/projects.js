@@ -87,6 +87,6 @@ export const projects = [
         es: "Este portfolio se creó principalmente con el objetivo de mostrar mi perfil y mis conocimientos a través de los distintos proyectos que he estado realizando durante todo este proceso de aprendizaje. Para su desarrollo, decidí usar algunas de las tecnologías mas demandadas del momento como React y Tailwind CSS además de distintas librerias. De esta forma nace un portfolio totalmente responsive.",
         image: "../../assets/images/portfolio.jpg",
         linkOne: "https://github.com/kervinmarquinez/portfolio",
-        linkTwo: "https://kervinmarquinez.github.io/dropmagazine/"  
+        linkTwo: ""  
     },
 ]
